@@ -1,5 +1,21 @@
 <h1 align="center">Zenaldo Oliveira</h1>
 
+<h1 align="center">Hi 👋 I'm Zenaldo Oliveira</h1>
+
+<p align="center">
+Front-End Developer | React | Next.js | UI Specialist
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:SEUEMAIL@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=24&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+Next.js+%7C+JavaScript;Building+Modern+User+Interfaces" />
 </p>
