@@ -22,11 +22,12 @@ Focused on clean component architecture, performance optimization and user-cente
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,git" />
-</p>
+## 🚀 Building Modern UIs
 
----
+[![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Yes-2ea44f?style=for-the-badge)](https://www.linkedin.com/in/SEU-LINKEDIN)
+
+[![Front-End Positions](https://img.shields.io/badge/Front--End-Positions-1f6feb?style=for-the-badge)](https://github.com/Zenaldo-Oliveira)
+
 
 ## 📌 Featured Projects
 
