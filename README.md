@@ -65,10 +65,6 @@ Modern CRUD front-end interface integrated with REST APIs.
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zenaldo-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zenaldo-Oliveira&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zenaldo-Oliveira&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenaldo-Oliveira&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
