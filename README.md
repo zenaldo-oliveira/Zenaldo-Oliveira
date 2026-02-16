@@ -12,21 +12,21 @@ Building scalable, modern and high-performance web applications.
 
 ## 🇺🇸 About Me
 
-I am a Fullstack Developer focused on designing and developing scalable web applications from frontend interfaces to backend integrations.
+Fullstack Developer specialized in designing and developing scalable web applications, from frontend interfaces to backend integrations.
 
-I have hands-on experience building booking systems, CRUD platforms and responsive user interfaces using modern technologies.
+Experienced in building booking systems, CRUD platforms and responsive user interfaces using modern technologies.
 
-My focus is on clean architecture, performance optimization and user-centered design.
+Focused on clean architecture, performance optimization and user-centered design.
 
 ---
 
 ## 🇧🇷 Sobre Mim
 
-Desenvolvedor Fullstack focado na construção de aplicações web modernas, escaláveis e de alto desempenho.
+Desenvolvedor Fullstack especializado na criação de aplicações web escaláveis, desde interfaces de front-end até integrações de back-end.
 
-Experiência no desenvolvimento de sistemas de reservas, aplicações CRUD e interfaces responsivas utilizando tecnologias atuais.
+Experiência no desenvolvimento de sistemas de reservas, aplicações CRUD e interfaces responsivas utilizando tecnologias modernas.
 
-Foco em arquitetura limpa, otimização de performance e experiência do usuário.
+Foco em arquitetura limpa, otimização de performance e experiência centrada no usuário.
 
 ---
 
@@ -39,10 +39,10 @@ React • Next.js • Node.js • JavaScript • HTML5 • CSS3 • Git • REST
 ## 📌 Featured Projects
 
 ### 🐾 Petshop Booking System  
-Complete booking platform with admin dashboard and API integration.
+Complete booking platform with admin dashboard, schedule management and API integration.
 
 ### 💳 Bank Interface UI  
-Banking interface simulation built with React.
+Banking interface simulation built with React, focused on component structure and user experience.
 
 ### 📋 User Management CRUD  
 Full CRUD application with frontend and backend integration.
