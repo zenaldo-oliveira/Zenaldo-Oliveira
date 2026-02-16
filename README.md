@@ -13,8 +13,9 @@
 </p>
 
 ---
+Fullstack Developer | React • Next.js • Node.js  
+Building Scalable & High-Performance Web Applications
 
-## 🚀 About Me
 
 I am a Fullstack Developer focused on building scalable web applications from frontend interfaces to backend integrations.
 
