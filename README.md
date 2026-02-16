@@ -62,21 +62,13 @@ Modern CRUD front-end interface integrated with REST APIs.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Performance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zenaldo-Oliveira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenaldo-Oliveira&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zenaldo-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zenaldo-Oliveira&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zenaldo-Oliveira&color=38BDF8&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Focused on building clean and modern interfaces.
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenaldo-Oliveira&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
