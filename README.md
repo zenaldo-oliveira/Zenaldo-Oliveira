@@ -1,66 +1,52 @@
 <h1 align="center">Hi 👋, I'm Zenaldo Oliveira</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=24&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications" />
-</p>
+<h3 align="center">
+Fullstack Developer | React • Next.js • Node.js
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-38BDF8?style=for-the-badge" />
-</p>
-
-<p align="center">
-  Building modern, scalable and high-performance web applications.
+Building scalable, modern and high-performance web applications.
 </p>
 
 ---
-Fullstack Developer | React • Next.js • Node.js  
-Building Scalable & High-Performance Web Applications
 
+## 🇺🇸 About Me
 
-I am a Fullstack Developer focused on building scalable web applications from frontend interfaces to backend integrations.
+I am a Fullstack Developer focused on designing and developing scalable web applications from frontend interfaces to backend integrations.
 
-Experienced in developing booking systems, CRUD applications and responsive UI interfaces using modern technologies.
+I have hands-on experience building booking systems, CRUD platforms and responsive user interfaces using modern technologies.
 
-Focused on clean architecture, performance optimization and user-centered design.
+My focus is on clean architecture, performance optimization and user-centered design.
+
+---
+
+## 🇧🇷 Sobre Mim
+
+Desenvolvedor Fullstack focado na construção de aplicações web modernas, escaláveis e de alto desempenho.
+
+Experiência no desenvolvimento de sistemas de reservas, aplicações CRUD e interfaces responsivas utilizando tecnologias atuais.
+
+Foco em arquitetura limpa, otimização de performance e experiência do usuário.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,git" />
-</p>
+React • Next.js • Node.js • JavaScript • HTML5 • CSS3 • Git • REST APIs
 
 ---
 
 ## 📌 Featured Projects
 
-### 🐾 Petshop Booking System
-Full booking platform with admin dashboard, schedule management and API integration.
+### 🐾 Petshop Booking System  
+Complete booking platform with admin dashboard and API integration.
 
-### 💳 Bank Interface UI
-Banking interface simulation built with React and modern UI architecture.
+### 💳 Bank Interface UI  
+Banking interface simulation built with React.
 
-### 📋 User Management CRUD
-Complete CRUD system with frontend and backend integration.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zenaldo-oliveira&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenaldo-oliveira&layout=compact&theme=tokyonight" />
-</p>
+### 📋 User Management CRUD  
+Full CRUD application with frontend and backend integration.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenaldo-oliveira&color=38BDF8&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  ⭐ Always learning. Always building.
-</p>
+⭐ Always learning. Always building.
