@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Zenaldo</h1>
+<h3 align="center">Fullstack Developer focused on scalable web applications</h3>
 
-<!--
-**zenaldo-oliveira/Zenaldo-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modern, high-performance web applications using React, Next.js and Node.js.
+
+Passionate about clean code, scalable architecture and user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Next.js
+- Node.js
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
+- REST APIs
+
+---
+
+## 📌 Featured Projects
+
+### 🐾 Petshop Booking System
+Full booking platform with admin dashboard and API integration.
+
+### 💳 Bank Interface UI
+Banking interface simulation built with React and modern UI patterns.
+
+### 📋 CRUD User Management
+User registration and backend integration system.
+
+---
+
+## 🌎 Connect With Me
+
+- 💼 LinkedIn: (coloque seu link)
+- 🌐 Portfolio: (coloque seu link)
+
+---
+
+⭐ Always learning and improving.
