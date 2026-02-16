@@ -1,36 +1,34 @@
 <h1 align="center">Hi 👋, I'm Zenaldo Oliveira</h1>
-<h3 align="center">Fullstack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-  Building scalable, high-performance web applications with modern technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=24&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-38BDF8?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Building modern, scalable and high-performance web applications.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Fullstack Developer focused on designing and developing modern web applications from frontend interfaces to backend integrations.
+I am a Fullstack Developer focused on building scalable web applications from frontend interfaces to backend integrations.
 
-I have hands-on experience building booking platforms, CRUD systems, and responsive UI applications using React, Next.js and REST APIs.
+Experienced in developing booking systems, CRUD applications and responsive UI interfaces using modern technologies.
 
-My focus is on clean architecture, performance optimization and user-centered design.
+Focused on clean architecture, performance optimization and user-centered design.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,git" />
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,html,css,git" />
 </p>
-
-- React & Next.js  
-- Node.js  
-- JavaScript (ES6+)  
-- HTML5 & CSS3  
-- REST APIs  
-- Git & GitHub  
 
 ---
 
@@ -40,32 +38,28 @@ My focus is on clean architecture, performance optimization and user-centered de
 Full booking platform with admin dashboard, schedule management and API integration.
 
 ### 💳 Bank Interface UI
-Banking interface simulation built with React, focusing on UI architecture and user experience.
+Banking interface simulation built with React and modern UI architecture.
 
 ### 📋 User Management CRUD
-Full CRUD system with frontend and backend integration.
+Complete CRUD system with frontend and backend integration.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenaldo-oliveira&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenaldo-oliveira&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zenaldo-oliveira&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenaldo-oliveira&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌎 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- 🌐 Portfolio: https://SEU-PORTFOLIO.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zenaldo-oliveira&color=38BDF8&style=for-the-badge" />
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Constantly learning. Always building.
+  ⭐ Always learning. Always building.
 </p>
