@@ -64,7 +64,9 @@ Modern CRUD front-end interface integrated with REST APIs.
 
 ## 📊 GitHub Performance
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zenaldo-Oliveira&theme=tokyonight" />
-</p>
+<foto alinhar="centro">
+  <fonte mídia="(prefere esquema de cores: escuro)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <fonte mídia="(prefere esquema de cores: claro)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <imagem alinhar="centro" alt="animação de cobra na grade de contribuições do GitHub" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
+</foto>
 
